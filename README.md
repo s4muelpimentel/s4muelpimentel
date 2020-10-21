@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-### Olá, Seja bem vindo ao meu perfil 👋
-
-## Sobre mim:
+## About me:
 - 🎓 Atualmente focado em estudar JavaScript, TypeScript e Node.js.
-- ❤️ Apaixonado por programação e tecnologia.
 - 💻 Estudando: 
   ![Java](https://img.shields.io/badge/-Java-ff2d20?style=flat&logoColor=fff&logo=Java)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
