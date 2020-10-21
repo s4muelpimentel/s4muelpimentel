@@ -11,7 +11,7 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logoColor=fff&logo=Node.js)&nbsp;
   ![React](https://img.shields.io/badge/-React-lightgrey?style=flat&logoColor=fff&logo=React)&nbsp;
-  ![ReactNative](https://img.shields.io/badge/-ReactNative-9cf?style=flat&logoColor=fff&logo=ReactNative)&nbsp;
+  ![ReactNative](https://img.shields.io/badge/-React-9cf?style=flat&logoColor=fff&logo=React)&nbsp;
   
 <img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apollosamuel&layout=compact&theme=dracula" alt="apollosamuel" />
 
