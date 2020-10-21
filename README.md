@@ -9,6 +9,8 @@
   ![Java](https://img.shields.io/badge/-Java-007ACC?style=flat&logoColor=fff&logo=Java)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-007ACC?style=flat&logoColor=fff&logo=NodeJS)&nbsp;
+  
   
 
 
