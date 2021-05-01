@@ -3,7 +3,6 @@
 ## About me:
 - 🎓 Atualmente focado em estudar JavaScript, TypeScript e Node.js.
 - 💻 Estudando: 
-  ![Java](https://img.shields.io/badge/-Java-ff2d20?style=flat&logoColor=fff&logo=Java)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logoColor=fff&logo=Node.js)&nbsp;
