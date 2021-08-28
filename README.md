@@ -1,7 +1,11 @@
-### Hi there 👋
+## Hello there
+
+Yoyo!
 
 ## About me:
-- Oi! Eu sou o Samuel :D
+* Software Developer at <a href='https://www.mundiale.com.br/'>Mundiale</a>
+* Computer Science Student at <a href='https://www.una.br/'>UNA</a>
+* **Living in**: Belo Horizonte, Brazil
 
 </div>
   
