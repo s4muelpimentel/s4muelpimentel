@@ -3,7 +3,7 @@
 Yoyo!
 
 ## About me:
-* Software Developer at <a href='https://www.mundiale.com.br/'>Mundiale</a>
+* Software Engineer at <a href='https://www.capgemini.com/'>Capgemini</a>
 * Computer Science Student at <a href='https://www.una.br/'>UNA</a>
 * **Living in**: Belo Horizonte, Brazil
 
