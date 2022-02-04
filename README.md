@@ -3,7 +3,7 @@
 Yoyo!
 
 ## About me:
-* Software Engineer at <a href='https://www.capgemini.com/'>Capgemini</a>
+* Software Engineer at <a href='https://ciandt.com/br/'>CI&T</a>
 * Computer Science Student at <a href='https://www.una.br/'>UNA</a>
 * **Living in**: Belo Horizonte, Brazil
 
